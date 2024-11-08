@@ -10,6 +10,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/jake1325/Dex/main/dex
 | Executor         | Support                   |
 | ----------------------|----------------------|
 | Celery        | ✅ Working                   |
-| Wave          | 🔲 Unchecked                 |
-| Solara        | 🔲 Unchecked                 |
+| Wave          | ✅ Unchecked                 |
+| Solara        | ✅ Unchecked                 |
 | Others        | 🔲 Unchecked                 |
